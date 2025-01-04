@@ -77,7 +77,7 @@ Replace `<base_url>` in the endpoints below with this base URL.
     "email": "john.doe@example.com"
   }
 
-  **2. Get All Members**
+**2. Get All Members**
 
 - **URL:** `<base_url>/members`
 - **Method:** GET
@@ -100,7 +100,7 @@ Replace `<base_url>` in the endpoints below with this base URL.
     "name": "Johnathan Doe"
   }
 
-  **5. Delete a Member**
+**5. Delete a Member**
 
 - **URL:** `<base_url>/members/<id>`
 - **Method:** DELETE
